@@ -1,0 +1,21 @@
+{
+  "name": "express_website",
+  "version": "1.0.0",
+  "description": "express website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bikashgup/nodejs-project.git"
+  },
+  "author": "bikash",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "jade": "*",
+    "nodemailer": "*"
+  }
+}
